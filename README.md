@@ -4,6 +4,10 @@ Telegram bot which shows a private AoC leaderboard on request (/get).
 
 ## Usage
 
+Install dependencies:
+
+* `pip install -r requirements.txt`
+
 Run the bot:
 
 * `cat api_key | ./bot.py` Run the bot without default leaderboard and session cookie (recommended)
